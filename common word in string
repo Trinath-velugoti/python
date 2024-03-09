@@ -1,0 +1,5 @@
+s1="trinath"
+s2="ram"
+se=set(s1)
+st=set(s2)
+print(se.intersection(st))
