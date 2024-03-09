@@ -1,0 +1,4 @@
+s1="trinathram"
+s2="venkateswarluhanumayamma"
+concatenated="".join([s1,s2])
+print(concatenated)
