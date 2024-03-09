@@ -1,0 +1,4 @@
+s="trinath"
+words=s.split()
+n_w=len(words)
+print(n_w)
