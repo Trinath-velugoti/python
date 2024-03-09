@@ -1,0 +1,4 @@
+s=" this is the string "
+clean_str=s.replace(" ","")
+print(s)
+print(clean_str)
