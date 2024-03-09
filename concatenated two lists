@@ -1,0 +1,4 @@
+list1=[1,23,32]
+list2=[3,2,43]
+conatenated=list1+list2
+print(conatenated)
