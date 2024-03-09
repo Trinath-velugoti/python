@@ -1,0 +1,8 @@
+d={1:"t",2:"r",3:"d"}
+key=2
+if key in d:
+    del d[key]
+    print("key {} is found")
+else:
+    print("key {} is not found")
+print("updated dictionary",d)
