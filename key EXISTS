@@ -1,0 +1,6 @@
+my_dict = {'a': 1, 'b': 2, 'c': 1, 'd': 3, 'e': 2}
+key='b'
+if key in my_dict:
+    print("key exists")
+else:
+    print("not")
