@@ -1,0 +1,5 @@
+a=[1,2,3,5,4,-1]
+k=1
+sor=sorted(a)
+kth_smallest=sor[k-1]
+print(kth_smallest)
