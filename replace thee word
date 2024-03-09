@@ -1,0 +1,5 @@
+str="trinath and ram are enemies"
+old="enemies"
+new="bros"
+replace=str.replace(old,new)
+print(replace)
