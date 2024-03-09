@@ -1,0 +1,12 @@
+''''
+mylist = ["a", "b", "a", "c", "c"]
+mylist = list(dict.fromkeys(mylist))
+x=sorted(mylist)
+print(x)
+'''
+def my(x):
+  return list(dict.fromkeys(x))
+
+mylist=my(['a','g','r','v','h','a','g'])
+s=sorted(mylist)
+print(s)
