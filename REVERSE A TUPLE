@@ -1,0 +1,7 @@
+t=(1,2,3)
+rev=t[::-1]
+print(rev)
+#ASCCENDING ORDER IN TUPLE
+t=(13,2,1,2,3,1,55)
+sort=tuple(sorted(t))
+print(sort)
