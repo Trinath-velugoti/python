@@ -1,0 +1,4 @@
+s='trinath'
+vowels='aeiou'
+count=sum(map(lambda x:x.lower() in vowels,s))
+print(count)
