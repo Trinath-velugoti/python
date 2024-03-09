@@ -1,0 +1,5 @@
+array = input("Enter the elements of the array separated by spaces: ")
+elements = array.split()
+num_elements = len(elements)
+
+print("Number of elements in the array:", num_elements)
