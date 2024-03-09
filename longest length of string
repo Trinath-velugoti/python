@@ -1,0 +1,7 @@
+s="trinath is the bro of ram"
+p=s.split()
+length=0
+for word in p:
+    if len(word)>length:
+       length=len(word)
+print(length)
